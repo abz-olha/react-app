@@ -1,0 +1,30 @@
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.hero {
+  background-image: url("http://ua.adr.com.ua/img/bg-1-1-1920@2x.3805585d.jpg");
+  background-color: #283593;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero__content {
+  width: 49%;
+}
+
+.hero__title {
+  display: block;
+  margin-bottom: 18px;
+  font-size: 50px;
+  line-height: 1.2;
+  font-family: overpass,Arial,sans-serif;
+  color: #fff;
+}
+.main-section, .main>.main-section {
+  padding-top: 133px;
+  padding-bottom: 153px;
+}
